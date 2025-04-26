@@ -2,7 +2,7 @@
 
 👋 Welcome to my GitHub profile!
 
-**Mastering the unseen algorithms that move the world. 🌌**
+**Mastering the unseen algorithms that move the world. 🧠**
 
 ---
 
@@ -11,8 +11,8 @@ I'm a relentless problem-solver who believes in building things that matter.
 Currently honing my craft in Python, algorithms, and data structures.  
 On a mission to engineer solutions that leave a lasting impact.
 
-- 🎤 Delivered a TEDx talk on overcoming challenges through innovation
-- 🏆 Awarded the Deccan Herald Changemakers Award for social impact
+- 🎤 Delivered a TEDx talk on overcoming adversity through grit and resilience
+- 🏆 Featured by Deccan Herald as a Changemaker for driving early detection
 - 🧠 Lover of algorithms, data structures, and computational thinking
 - 🚀 Constantly learning and growing
 - 🌌 Passionate about creating, innovating, and mastering the unseen
@@ -35,3 +35,9 @@ To push the boundaries of what's possible — and craft a career that echoes thr
 
 ---
 
+## 🎥 Featured
+
+- [TEDx Talk: "Turning White Noise into Melody — A Story of Grit and Resilience"](https://www.youtube.com/watch?v=sDnUXSegIT8)
+- [Deccan Herald Changemakers Feature: "Advocating for Early Detection and Speech Therapy"](https://www.youtube.com/watch?v=pdAEj39OoGQ)
+
+---
